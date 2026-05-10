@@ -1,0 +1,6 @@
+[mod]
+
+title:Ducks with Guns
+description: ducks with guns
+
+tags:Units,Turrets,Experimentals
