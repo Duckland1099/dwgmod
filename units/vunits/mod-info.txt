@@ -1,0 +1,6 @@
+[mod]
+
+title:Ducks with Guns
+description: ducks with guns
+minVersion: 1.15p9
+tags:Units,Turrets,Experimentals

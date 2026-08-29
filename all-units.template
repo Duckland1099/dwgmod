@@ -1,0 +1,9 @@
+[core]
+strictLevel:1
+ignoreInUnitCapCalculation:true
+autoTriggerCooldownTime_allowDangerousHighCPU:true
+[global_resource_Byzantium]
+displayName: Byzantium Borclasite
+displayColor: #b120ce
+
+
